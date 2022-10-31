@@ -10,4 +10,9 @@ OPERATOR PERBANDINGAN
 (<=) kurang dari atau sama dengan
 
 OPERATOR LOGIKA
+- operator logika adalah operator untuk dua buah data bool
+- hasil dari operator logika adalah bool lagi
+(&&) dan
+(||) atau
+(!) kebalikan
 */

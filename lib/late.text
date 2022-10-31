@@ -1,0 +1,8 @@
+late
+di dart,secara standar,variable akan 
+dideklarasikan nilainya ketika variabel dibuat
+- namun kadang ada kasus dimana kita ingin variabel dideklararsikan
+nanti saja,ketika memang variable tersebut diakses
+jika tidak diakses tidak perlu dideklarasikan
+- untuk melakukan hal ini,kita bisa tambahkan kata kunci
+late diawal deklarasi variable
