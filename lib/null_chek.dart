@@ -1,9 +1,12 @@
 void main() {
+  //null safety
   int? age = null;
-  age = 9;
+  //non null/harus memiliki value
+  int? heigh;
 
   if (age != null) {
     double ageDouble = age.toDouble();
     print(ageDouble);
   }
+  print(heigh);
 }
